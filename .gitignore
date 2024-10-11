@@ -1,0 +1,38 @@
+# NetBeans specific files
+nbproject/private/
+nbproject/Makefile-Debug.mk
+nbproject/Makefile-Release.mk
+nbproject/Makefile-Default.mk
+nbproject/Makefile-Default.mk
+nbproject/config.properties
+nbproject/project.properties
+nbproject/project.xml
+
+# Compiled class files
+*.class
+
+# Build directories
+/build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# IDE specific files
+*.nb-gradle/
+*.nbproject/
+*.iml
+
+# User-specific files
+*.user
+*.userprefs
+
+# Other files to ignore
+.DS_Store
+Thumbs.db
